@@ -22,14 +22,12 @@
 - 💾 Descarga el archivo desde GitHub (.ps1 o .exe)
 - 📁 ¡Listo para usar! No requiere instalación
 🎮 Uso
-    🔵 Versión PowerShell (.ps1):
-    powershell
-    Copy Code
-    ➡️ Clic derecho → "Ejecutar con PowerShell"
-    ✔️ Acepta los permisos de administrador
-    🔶 Versión Ejecutable (.exe): EJECUTAR como ADMINISTRADOR
-    ➡️ Doble clic en el archivo
-    ✔️ Acepta los permisos de administrador
+🔵 Versión PowerShell (.ps1): powershell Copy Code
+➡️ Clic derecho → "Ejecutar con PowerShell"
+✔️ Acepta los permisos de administrador
+🔶 Versión Ejecutable (.exe): EJECUTAR como ADMINISTRADOR
+➡️ Doble clic en el archivo
+✔️ Acepta los permisos de administrador
 🎛️ Controles de la Interfaz
 🟢 Botón "Activar Cámara"
 Activa instantáneamente tu cámara web
@@ -53,4 +51,3 @@ Muestra el estado actual en tiempo real
 ⭐ Déjanos una estrella
 🐛 Reporta bugs
 💡 Sugiere mejoras
-
